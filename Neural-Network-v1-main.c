@@ -19,7 +19,7 @@
 #include "screen.h"
 #include "mnist-utils.h"
 #include "mnist-stats.h"
-#include "NeuralNetwork.h"
+#include "Neural-Network-v1-NN.h"
 
 
 
